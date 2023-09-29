@@ -1,0 +1,19 @@
+<style type="text/css">
+#jp-left {
+    width: 250px;
+}
+#jp-right {
+    margin-left: 250px;
+    width: auto;
+}
+.uk-dropdown-navbar {
+    left: 250px!important;
+}
+</style>
+<style type="text/css">
+.tm-toolbar,.tm-content{
+-webkit-box-shadow: 0px 0px 5px 0px rgba(204,204,204,0.6);
+-moz-box-shadow: 0px 0px 5px 0px rgba(204,204,204,0.6);
+box-shadow: 0px 0px 5px 0px rgba(204,204,204,0.6);
+}
+</style>
